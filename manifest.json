@@ -1,0 +1,14 @@
+{
+  "name": "HealWave - Therapeutic Audio Pain Relief",
+  "short_name": "HealWave",
+  "description": "Professional therapeutic audio frequencies for pain relief, fully offline capable.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#218091",
+  "icons": [
+    { "src": "icons/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icons/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
